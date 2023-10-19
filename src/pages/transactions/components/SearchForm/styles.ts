@@ -23,6 +23,7 @@ export const SearchFormContainer = styled.form`
     gap: 0.75rem;
 
     border: 0;
+    padding: 1rem;
     background: transparent;
     border: 1px solid ${props => props.theme['green-300']};
     color: ${props => props.theme['green-300']};
