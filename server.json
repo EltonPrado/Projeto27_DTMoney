@@ -39,6 +39,14 @@
       "type": "income",
       "createdAt": "2023-10-27T19:04:42.613Z",
       "id": 5
+    },
+    {
+      "description": "conta de água",
+      "category": "dispesa fixa",
+      "price": 80,
+      "type": "outcome",
+      "createdAt": "2023-10-27T20:15:21.792Z",
+      "id": 6
     }
   ]
 }
